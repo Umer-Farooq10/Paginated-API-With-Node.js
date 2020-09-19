@@ -1,3 +1,3 @@
-Welcome to Paginated API 🚀
+## Welcome to Paginated API 🚀
 
 Enjoy! 🔥
